@@ -1,7 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&random=false&width=435&lines=Follow+your+heart+!" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Follow+your+heart+!" alt="Typing SVG" /></a>
 
 <!--
 **Ph0m1/Ph0m1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
