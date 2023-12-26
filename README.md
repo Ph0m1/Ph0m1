@@ -1,5 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-###                           👋  Follow your heart!  👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&random=false&width=435&lines=Follow+your+heart+!" alt="Typing SVG" /></a>
 
 
 <!--
@@ -21,7 +22,9 @@ Here are some ideas to get you started:
 ![Ph0m1's Github](https://github-readme-stats.vercel.app/api?username=Ph0m1&show_icons=true&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph0m1&theme=tokyonight" height="195px" width="37%" alt="gueFDF's Top Languages">
 [![Ph0m1](https://github-profile-trophy.vercel.app/?username=Ph0m1)](https://github.com/ryo-ma/github-profile-troph) 
-![力扣数据](https://stats.justsong.cn/api/leetcode?username=funny-franklineak&cn=true)
+<div align="center">
+  <img src="https://stats.justsong.cn/api/leetcode?username=funny-franklineak&cn=true" height="300px" width="90%">
+</div>
   <div align="center">
     <a href="https://leetcode.cn/u/funny-franklineak/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
