@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph0m1&theme=tokyonight" height="195px" width="37%" alt="gueFDF's Top Languages">
 [![Ph0m1](https://github-profile-trophy.vercel.app/?username=Ph0m1)](https://github.com/ryo-ma/github-profile-troph) 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/leetcode?username=funny-franklineak&cn=true" height="300px" width="90%">
+  <!-- <img src="https://stats.justsong.cn/api/leetcode?username=funny-franklineak&cn=true" height="300px" width="90%"> -->
 </div>
   <div align="center">
-    <a href="https://leetcode.cn/u/funny-franklineak/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
+     <a href="https://leetcode.cn/u/funny-franklineak/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Ph0m1&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     <img src="https://komarev.com/ghpvc/?username=Ph0m1&label=visitors&color=0e75b6&style=flat" alt="访问量统计" />
